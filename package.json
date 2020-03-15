@@ -31,10 +31,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Shawnt-Demirdjian/Finance-Grapher.git"
+		"url": "git+https://github.com/Shawnt-Demirdjian/financier.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Shawnt-Demirdjian/Finance-Grapher/issues"
+		"url": "https://github.com/Shawnt-Demirdjian/financier/issues"
 	},
-	"homepage": "https://github.com/Shawnt-Demirdjian/Finance-Grapher#readme"
+	"homepage": "https://github.com/Shawnt-Demirdjian/financier#readme"
 }
