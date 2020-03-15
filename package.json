@@ -1,0 +1,40 @@
+{
+	"name": "finance-grapher",
+	"version": "1.0.0",
+	"description": "A free, open-source Desktop Email Application.",
+	"main": "main.js",
+	"dependencies": {
+		"chart.js": "^2.9.3",
+		"papaparse": "^5.1.1"
+	},
+	"devDependencies": {
+		"electron": "^5.0.0",
+		"eslint": "^6.1.0",
+		"eslint-config-standard": "^14.1.0",
+		"eslint-plugin-import": "^2.20.1",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-node": "^11.0.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-react": "^7.14.3",
+		"eslint-plugin-react-hooks": "^1.7.0",
+		"eslint-plugin-standard": "^4.0.1"
+	},
+	"scripts": {
+		"start": "electron ."
+	},
+	"keywords": [
+		"finance",
+		"node.js",
+		"electron.js"
+	],
+	"author": "Shawnt Demirdjian",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Shawnt-Demirdjian/Finance-Grapher.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Shawnt-Demirdjian/Finance-Grapher/issues"
+	},
+	"homepage": "https://github.com/Shawnt-Demirdjian/Finance-Grapher#readme"
+}
